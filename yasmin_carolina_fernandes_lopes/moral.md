@@ -1,0 +1,3 @@
+A moral da história é o risco da dependência cega da tecnologia. Ao deixar totalmente a capacidade de pensar, calcular e raciocinar às máquinas, a humanidade perde o espírito crítico e a autonomia intelectual. Quem não domina os fundamentos torna-se incapaz de questionar ou validar se uma informação está correta.
+
+O conto mostra que o estudo e o conhecimento básico não servem apenas para executar tarefas práticas, mas sim para manter o ser humano capaz de pensar por si mesmo e não ser refém passivo das ferramentas que cria.
